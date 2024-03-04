@@ -2,7 +2,6 @@
 ## About The Project
 
 The Todo App Features a sleek and responsive UI that allows you to create, update and delete the items of your To Do list. The Todo App is a delightfully simple yet powerful task manager and to-do list app. Finally, organize your work and life.
-![thetodoapp](https://user-images.githubusercontent.com/122647915/236282023-e1247092-6cee-48d0-bc97-9e9394d72c5e.PNG)
 
 ## Features
 
