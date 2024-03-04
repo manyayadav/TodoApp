@@ -9,8 +9,6 @@ The Todo App Features a sleek and responsive UI that allows you to create, updat
 - A Main page with an text input to add To-dos
 - Update to-do and delete to-do buttons
 
-## Project Planning
-- https://trello.com/b/QqjmsVHP/mern-stack-project
 
 ## Deployed App
 - 
