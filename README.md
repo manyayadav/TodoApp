@@ -10,15 +10,6 @@ The Todo App Features a sleek and responsive UI that allows you to create, updat
 - Update to-do and delete to-do buttons
 
 
-## Deployed App
-- 
-
-## WireFrame
-![homepage](https://user-images.githubusercontent.com/122647915/236212706-6ae1e29a-b686-43fa-a929-649ff373913c.PNG)
-![onUpdate](https://user-images.githubusercontent.com/122647915/236212744-ff0ee407-23bc-4a07-a9f7-ae1fc58a7ab6.PNG)
-![onDelete](https://user-images.githubusercontent.com/122647915/236212816-b97f5c52-57c6-43dc-96dd-645fc2ee0de5.PNG)
-
-
 ## Technologies Used
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
